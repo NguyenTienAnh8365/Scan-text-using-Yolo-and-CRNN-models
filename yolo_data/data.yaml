@@ -1,0 +1,7 @@
+names:
+- text
+nc: 1
+path: '/content/drive/MyDrive/OCR : Yolov11 vs CNN/yolo_data'
+test: test/images
+train: train/images
+val: val/images
